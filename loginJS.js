@@ -25,7 +25,7 @@ function log() {
 
 let users = {
   data: ["start"],
-  d: "a"
+  d: 2
 };
 
 function sign() {
